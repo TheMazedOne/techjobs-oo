@@ -60,7 +60,7 @@ public class Job {
         return positionType;
     }
 
-    public void setPositionType(PositionType positionType) {
+    public void setPositionType (PositionType positionType) {
         this.positionType = positionType;
     }
 
